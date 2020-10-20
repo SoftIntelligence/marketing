@@ -44,7 +44,7 @@ MBA အလုပ်သင် ၊ Air Myanmar Aviation Services Ltd (မတ်လ
 Bachelor of Technology – IT at Technological University Hmawbi 2011 – 2014
 Finished Customer Service Training from P.S Business School 2014 
 
-![](../images/01.png)
+![](../images/02.png)
 
 
 လုပ်ငန်းအတွေ့အကြုံများ 
@@ -59,4 +59,64 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
     • I LIKE THAT” လို့ ခေါ်သော Follower ၃ သန်း နီးပါး ရှိ Personal travel blogကို ဦးစီးနေပါတယ်။ 
     • ကမ္ဘာကျော် Brand တွေ ဖြစ်တဲ့ Emirates Airlines, SAMSUNG, Htoo Hospitality နှင့် Memories Group  ပူးတွဲ အလုပ်များ လုပ်ကိုင်ခဲ့ဖူးတဲ့အပြင် အခြားသော freelance travel blogger အလုပ် တွဲ လုပ်ဖူးပါတယ်။
     • Organzier တစ်ယောက် အနေဖြင့် Myanmar Vacation Festival ၂၀၁၈ နှင့် ၂၀၁၉ ကို Organize လုပ်ခဲ့ပါတယ်။ 
+
+## Head of Market Research Team  - ဒေါ် အေးချမ်းဆု
+
+ပညာရေးမှတ်တမ်း 
+    • Master of Business Administration (International Business Management) 
+	Siam University (Thailand), GPA 3.71/4 
+	• Bachelor of Civil Engineering  
+	Technological University (Hmawbi, Myanmar), GPA 4.14/5
+
+![](../images/03.jpg)
+
+
+လုပ်ငန်းအတွေ့အကြုံများ 
+    • Worked as Account Executive at Ascend Corporation
+(September 2018 – June 2019)
+    • Generate new clients while strengthening existing client relationships.
+    • Manage one branch account, produce beyond target sales volume monthly. 
+    • Assist in offline and online Marketing campaigns.
+    • Create informative and promotional content for product. 
+    • Complain handling, assist and support in offsite Marketing events, social media marketing and Facebook Ads.
+    • Coordinate in commercial video productions. 
+    • Conducted market research and reported on clients' competition.
+    • Maintained high level of understanding of industry standards and trends.
+    • Reviewed accounts monthly to monitor and track customer satisfaction and complaints. 
+    • Worked as Account Executive at Adecco Company Limited 
+(July 2019 – Sept 2019)
+    • Perform as the same job as at Ascend Corporation
+
+
+## သူရိန်အောင် (ခရီးသွား အကြံပေး)
+
+ပညာရေးမှတ်တမ်း 
+
+Bachelor of Arts. University of Foreign Languages Yangon (Yangon, Myanmar)
+
+
+![](../images/03.png)
+
+လုပ်ငန်းအတွေ့အကြုံများ 
+
+French and English-Speaking Tour Guide (Freelance)
+Guides international travelers all around Myanmar from Belgium, France, Switzerland and other French Speaking Countries.
+• Effective Communication and team work: leads the groups in articulate pronunciation in addition of the poetic story telling skill and also respect the timeliness of the program under the instructions of the company.
+• Knowledge of specific tour sites: Explains to the clients about the sites in understanding of their points of interest. 
+•Presenting the authentic cultures: always presents the real taste of life and culture in engaging charismatically with numerous guests. With the sense of humor, successfully entertains the guests for their moment of life.  
+
+Fixer (Freelance) 		      		              2015 – Present
+Collaborate in data collecting, fixing the appointments, and arranging the travel program as a local correspondent of international journalists from Le monde, Cinétévé and Madame Figaro. 
+• Searching the information resources: successfully searches the required data for the international journalists and facilitate the actions of their relocation in progress.
+• Advising in Photo shooting: with the knowledge of photography, always advises to get realistic and more artistic moment of photo shooting. 
+• Arranging tour programs to international clients: successfully arranges the relocations of international journalists in responsibilities of safety even in the areas which is far from the access.
+
+VOLUNTEERISM
+
+Educational project–Interpreter and translator: Participated in a program (Be.A.Seed) coordinated by French 	international students for the cultural exchange, educational purpose and charity in rural area of 	Ayeyarwady Division (2014)
+Research project (university of Strasbourg, Fr) – Interpreter, fixer and translator: Worked on a crew of 	international students of master in journalism to contribute to the research and theses in Yangon and around it. (2014)
+
+Yangon photo Festival-Translator and event coordinator: Provided the translation service and event 	arrangement for Yangon Photo Festival (2015)
+
+
 
