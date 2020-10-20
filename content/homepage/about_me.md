@@ -126,6 +126,40 @@ Yangon photo Festival-Translator and event coordinator: Provided the translation
 ![](../images/04.png)
 ![](../images/05.png)
 
+## Theint Tharaphy (UX Researcher)
 
+EDUCATION 
+San Francisco State University 
+2012 - 2014
+B.A. in Social Anthropology 
+UX Academy 
+2019–2020
+Six-months intensive online academy on UX design. 
+
+![](../images/06.png)
+
+WORK EXPERIENCE 
+Proximity Designs 
+March 2018- December 2019 
+    • Organized and implemented back-end operations of the team 
+to better facilitate customers. 
+    • Took lead in a service design project that was launched. 
+    • Took part as a researcher in a farming ecosystem study that led 
+to a published book. 
+Freelancer 
+March 2020 - Present
+• Co-ownership of a restaurant directory website as a designer. • The Pet House – designing and building a full responsive site. • Working with developer teams to create products for clients. 
+
+
+## Technical Officer (SEO, PPC) - ZayarMoeKaung
+
+![](../images/07.png)
+
+    • Graduated from ‘National Management Degree Collage’ for Software Engineering Diploma in 2018 .
+	Since then, to create a place for young developers to show their abilities without the need for experiences and to make the cyber space of Myanmar filled with Burmese websites and contents was his dream.
+    • He studied JAVA, Spring and other server side languages and built skills for managing and deploying servers using Amazon Web Service. Worked as a freelance programmer for a year.
+    • Started working as Customer Service Engineer at Concordia int,ltd in 2019, where he learn how to serve the customers right, how to know their needs and how to solve their problems.
+    • Founded the Soft Intelligence ltd in 2020 with the help of friends and took the duty of Chief Technical Officer.
+    • Contributed in Youth 29’s ‘Digitalize your Craziness’ mini hackathon and successfully trained 20 students to built websites using hugo.
 
 
