@@ -118,5 +118,14 @@ Research project (university of Strasbourg, Fr) – Interpreter, fixer and trans
 
 Yangon photo Festival-Translator and event coordinator: Provided the translation service and event 	arrangement for Yangon Photo Festival (2015)
 
+## Head of PhotoGraphy and Video Producer – Iclick Dyno
+
+
+
+
+![](../images/04.png)
+![](../images/05.png)
+
+
 
 
