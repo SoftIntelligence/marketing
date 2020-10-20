@@ -65,11 +65,13 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
     
     • Digital Marketing field မှာ ၅နှစ်ကျော် အတွေ့အကြုံ 
     
-    • I LIKE THAT” လို့ ခေါ်သော Follower ၃ သန်း နီးပါး ရှိ Personal travel blogကို ဦးစီးနေပါတယ်။ 
+    •   "I Like That" လို့ ခေါ်သော Follower ၃ သန်း နီးပါး ရှိ Personal travel blogကို ဦးစီးနေပါတယ်။ 
     
     • ကမ္ဘာကျော် Brand တွေ ဖြစ်တဲ့ Emirates Airlines, SAMSUNG, Htoo Hospitality နှင့် Memories Group  ပူးတွဲ အလုပ်များ လုပ်ကိုင်ခဲ့ဖူးတဲ့အပြင် အခြားသော freelance travel blogger အလုပ် တွဲ လုပ်ဖူးပါတယ်။
     
     • Organzier တစ်ယောက် အနေဖြင့် Myanmar Vacation Festival ၂၀၁၈ နှင့် ၂၀၁၉ ကို Organize လုပ်ခဲ့ပါတယ်။ 
+
+   ["I LIKE THAT”](https://web.facebook.com/ilikethatofficial/) facebook page ဖြစ်ပါတယ်။ 
 
 ## Head of Market Research Team  - ဒေါ် အေးချမ်းဆု
 
