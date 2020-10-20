@@ -17,6 +17,10 @@ Company ၏ အချက်အလက်များ
    • ●  Website: www.softintelligencemm.com 
     
    • ●  Business Type: Private Company Limited 
+
+   • ●  Local Bank Account: 0129 6003 0000 0221
+
+   • ●  Foreign Bank Account(USD) : 0129 1012 0000 0442
     
    • ●  Total Number of Employees: 21
     
