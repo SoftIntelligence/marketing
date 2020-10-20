@@ -69,4 +69,8 @@ facebook campagin များကိုလဲ အောင်မြင်စွ�
 
 ![](../images/facebook.png)
 
+![](../images/tk1.jpg)
+
+![](../images/tk2.jpg)
+
 
