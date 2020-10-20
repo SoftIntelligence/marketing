@@ -65,7 +65,7 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
     
     • Digital Marketing field မှာ ၅နှစ်ကျော် အတွေ့အကြုံ 
     
-    •   "I Like That" လို့ ခေါ်သော Follower ၃ သန်း နီးပါး ရှိ Personal travel blogကို ဦးစီးနေပါတယ်။ 
+    •   "I Like That" လို့ ခေါ်သော Follower ၃ သိန်း နီးပါး ရှိ Personal travel blogကို ဦးစီးနေပါတယ်။ 
     
     • ကမ္ဘာကျော် Brand တွေ ဖြစ်တဲ့ Emirates Airlines, SAMSUNG, Htoo Hospitality နှင့် Memories Group  ပူးတွဲ အလုပ်များ လုပ်ကိုင်ခဲ့ဖူးတဲ့အပြင် အခြားသော freelance travel blogger အလုပ် တွဲ လုပ်ဖူးပါတယ်။
     
@@ -110,7 +110,7 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
     • Reviewed accounts monthly to monitor and track customer satisfaction and complaints. 
     
     • Worked as Account Executive at Adecco Company Limited 
-(July 2019 – Sept 2019)
+	 (July 2019 – Sept 2019)
     • Perform as the same job as at Ascend Corporation
 
 
