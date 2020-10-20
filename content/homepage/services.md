@@ -57,3 +57,16 @@ GIF ကို အနည်းဆုံး တစ်လ တွင် စုစု
 | Hulu                              |
 
 
+## proven Records
+
+ကျတော်တို့ကိုင်တွယ်ခဲ့သော website များရဲ့ google analytic data များဖြစ်ပါတယ်။Average Bounce Rate 30% ၀န်းကျင်ခန့်ကိုထိန်းသိမ်းထားနိုင်တဲ့
+မှတ်တမ်းကောင်းကိုပိုင်ဆိုင်ထားပါတယ်။
+
+![](../images/google1.png)
+![](../images/google2.png)
+
+facebook campagin များကိုလဲ အောင်မြင်စွာပြုလုပ်ထားနိုင်ခဲ့ပါတယ်။
+
+![](../images/facebook.png)
+
+
