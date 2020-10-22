@@ -155,6 +155,7 @@ Yangon photo Festival-Translator and event coordinator: Provided the translation
 
 ![](../images/04.png)
 ![](../images/05.png)
+{{< vimeo >}}
 
 ## Theint Tharaphy (UX Researcher)
 

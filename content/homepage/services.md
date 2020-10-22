@@ -39,9 +39,9 @@ GIF ကို အနည်းဆုံး တစ်လ တွင် စုစု
 
 
                                        
-| အသုံးပြုမည့်  Platform များ           |
+| အသုံးပြုမည့်  Platform များ |
 |-----------------------------------|
-| Google/SEO                     |
+| Google/SEO                     	|
 | Facebook                          |						 		
 | Instagram                         |
 | YouTube                           |
