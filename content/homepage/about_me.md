@@ -201,4 +201,3 @@ to better facilitate customers.
     
     • Contributed in Youth 29’s ‘Digitalize your Craziness’ mini hackathon and successfully trained 20 students to built websites using hugo.
 
-
