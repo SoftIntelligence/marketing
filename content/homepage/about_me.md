@@ -13,15 +13,28 @@ header_menu: true
 
 ### Campagin အတွက်ဖွဲ့စည်းထာရှိသော Team Member များ
 
-## Project Manager - Min Htet Oo 
 
-Secretary (2016-2019) Myanmar Integrated Engineering Group Ltd
 
-Basic Diplomatic Skills Certificate, MOFA
 
-Tour Operator Certificate, MOHT 
 
-![](../images/01.png)
+
+
+
+
+
+
+
+
+
+
+
+{{< test src = "/images/01.png" name = "Min Htet Oo" po = "Project Manager" dip = "Secretary (2016-2019) Myanmar Integrated Engineering Group Ltd Basic Diplomatic Skills Certificate, MOFA Tour Operator Certificate, MOHT " >}}
+
+
+
+
+
+
 
 ပညာရေး
 
@@ -38,13 +51,16 @@ MBA အလုပ်သင် ၊ Air Myanmar Aviation Services Ltd (မတ်လ
 လက်ထောက် Operation မန်နေဂျာ၊ ECT Ltd (၂၀၁၂-၂၀၁၃)
 အလုပ်သင်၊ ANID Ltd (ဇွန်လ ၂၀၁၁ - ဒီဇင်ဘာလ ၂၀၁၁)
 
-## Content Creator (Head of Editorial) - Kyaw Soe Lwin
+
+{{< test src = "/images/02.png" name = "Kyaw Soe Lwin" po = "Content Creator (Head of Editorial)" dip = "contentတွေvideoတွေကိုဖန်းတီးပေးသွားမှာဖြစ်ပြီးcampaignတွေအတွက်အကြံဉာဏ်များလဲလိုအပ်သလိုပေးအပ်ပေးမယ့်သူပါ" >}}
+
+ 
 
 ပညာရေးမှတ်တမ်း 
 Bachelor of Technology – IT at Technological University Hmawbi 2011 – 2014
 Finished Customer Service Training from P.S Business School 2014 
 
-![](../images/02.png)
+
 
 
 လုပ်ငန်းအတွေ့အကြုံများ 
@@ -73,7 +89,8 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
 
    ["I LIKE THAT”](https://web.facebook.com/ilikethatofficial/) facebook page ဖြစ်ပါတယ်။ 
 
-## Head of Market Research Team  - ဒေါ် အေးချမ်းဆု
+{{< test src = "/images/03.jpg" name = "ဒေါ် အေးချမ်းဆု" po = "Head of Market Research Team" dip = "Market ကိုအမြဲမပြတ်စောင့်ကြည့်ပေးပြီးလိုအပ်သလိုအထောက်အပံ့တွေပေးသွားမှာပါ" >}}
+
 
 ပညာရေးမှတ်တမ်း 
     
@@ -83,7 +100,7 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
 	• Bachelor of Civil Engineering  
 	Technological University (Hmawbi, Myanmar), GPA 4.14/5
 
-![](../images/03.jpg)
+
 
 
 လုပ်ငန်းအတွေ့အကြုံများ 
@@ -114,14 +131,13 @@ EMG Marketing Group – Social Media Executive  (၂၀၁၅ အောက်တ
     • Perform as the same job as at Ascend Corporation
 
 
-## သူရိန်အောင် (ခရီးသွား အကြံပေး)
+{{< test src = "/images/03.png" name = "သူရိန်အောင်" po = "ကျတော်တို့ content တွေဖန်တီးဖို့ခရီးတွေထွက်တဲ့အခါ ဒေသအလိုက် target ထားပြီး campaign တွေပြုလုပ်တဲ့အခါမှာလိုအပ်တဲ့အကြံဉာဏ်တွေပေးသွားမယ့်သူပါ " >}}
+
 
 ပညာရေးမှတ်တမ်း 
 
 Bachelor of Arts. University of Foreign Languages Yangon (Yangon, Myanmar)
 
-
-![](../images/03.png)
 
 လုပ်ငန်းအတွေ့အကြုံများ 
 
@@ -148,16 +164,18 @@ Research project (university of Strasbourg, Fr) – Interpreter, fixer and trans
 
 Yangon photo Festival-Translator and event coordinator: Provided the translation service and event 	arrangement for Yangon Photo Festival (2015)
 
-## Head of PhotoGraphy and Video Producer – Iclick Dyno
 
 
+{{< test src = "/images/04.png" name = "Iclick Dyno" po = "Head of PhotoGraphy and Video Producer" dip = "ဗီဒီယိုတွေနဲ့ဓာတ်ပုံတွေကိုတီထွင်ဖန်တီးနိုင်စွမ်းကောင်းကောင်းနဲ့ဆွဲဆောင်မှုရှိအောင်ပြုပြင်တီးဖြတ်ပေးမယ့်သူဖြစ်ပါတယ်။" >}}
 
 
-![](../images/04.png)
 ![](../images/05.png)
-{{< vimeo >}}
+သူ့ရဲ့ဖန်တီးမှုတွေထဲကတစ်ခုဖြစ်ပါတယ်
+{{< vimeo 447578019 >}}
 
-## Theint Tharaphy (UX Researcher)
+
+{{< test src = "/images/06.png" name = "Theint Tharaphy" po = "UX Researcher" dip = "ကျတော်တို့ကိုင်တွယ်ရမယ့် Site တွေ Landing page တွေကိုအသုံးပြုသူတွေ လွယ်ကူရိုးရှင်းစွာအသုံးပြုနိုင်ဖို့ ဆွဲဆောင်မှုရှိစေဖို့ ကူညီသွားမှာပါ " >}}
+
 
 EDUCATION 
 San Francisco State University 
@@ -167,7 +185,7 @@ UX Academy
 2019–2020
 Six-months intensive online academy on UX design. 
 
-![](../images/06.png)
+![](..)
 
 WORK EXPERIENCE 
 Proximity Designs 
@@ -186,9 +204,8 @@ to better facilitate customers.
 • Co-ownership of a restaurant directory website as a designer. • The Pet House – designing and building a full 	responsive site. • Working with developer teams to create products for clients. 
 
 
-## Technical Officer (SEO, PPC) - ZayarMoeKaung
+{{< test src = "/images/07.png" name = "ZayarMoeKaung" po = "Technical Officer (SEO, PPC)" dip = "Campaign တွေနဲ့ Digital Marketing ပိုင်းဆိုင်ရာ နည်းပညာပိုင်းတွေကိုတာ၀န်ယူသွားမယ့်သူပါ" >}}
 
-![](../images/07.png)
 
     • Graduated from ‘National Management Degree Collage’ for Software Engineering Diploma in 2018 .
 	Since then, to create a place for young developers to show their abilities without the need for experiences and to make the cyber space of Myanmar filled with Burmese websites and contents was his dream.
